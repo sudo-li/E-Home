@@ -1,0 +1,9 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\lcd.obj",
+".\Objects\ds1302.obj",
+".\Objects\24c02.obj",
+".\Objects\ds18b20.obj",
+".\Objects\key.obj" 
+TO ".\Objects\time12864" 
+PRINT(".\Listings\time12864.m51")
